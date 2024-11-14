@@ -1,0 +1,135 @@
+[ 
+    {
+        "product_id": "LAP001",
+        "product_title": "UltraBook Pro",
+        "product_image": "https://i.ibb.co.com/vQVVWJt/laptop-4.jpg",
+        "category": "Laptop",
+        "price": 950,
+        "description": "A sleek, lightweight laptop with powerful performance.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "13.3-inch display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "LAP002",
+        "product_title": "Gaming Beast X",
+        "product_image": "https://i.ibb.co.com/P6BxHtS/laptop-2.jpg",
+        "category": "Laptop",
+        "price": 1200,
+        "description": "High-performance laptop for gaming enthusiasts.",
+        "Specification": ["AMD Ryzen 7", "32GB RAM", "1TB SSD", "15.6-inch display"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "PHN001",
+        "product_title": "Phone Z Plus",
+        "product_image": "https://i.ibb.co.com/2v72QSB/phone-1.jpg",
+        "category": "Phone",
+        "price": 799,
+        "description": "Flagship smartphone with advanced features.",
+        "Specification": ["128GB Storage", "6.5-inch OLED", "Triple Camera"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "PHN002",
+        "product_title": "Smartphone Lite",
+        "product_image": "https://i.ibb.co.com/phSfMwy/phone-2.jpg",
+        "category": "Phone",
+        "price": 299,
+        "description": "Budget-friendly smartphone with essential features.",
+        "Specification": ["64GB Storage", "6.1-inch LCD", "Dual Camera"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "SW001",
+        "product_title": "SmartWatch Active",
+        "product_image": "https://i.ibb.co.com/yW3LXrn/watch.jpg",
+        "category": "Smart Watch",
+        "price": 150,
+        "description": "Fitness-focused smartwatch with heart rate monitor.",
+        "Specification": ["Heart Rate Monitor", "GPS", "Water Resistant"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "SW002",
+        "product_title": "Luxury SmartWatch",
+        "product_image": "https://i.ibb.co.com/GJ6SfD8/watch2.jpg",
+        "category": "Smart Watch",
+        "price": 299,
+        "description": "Premium smartwatch with stylish design.",
+        "Specification": ["OLED Display", "Long Battery Life", "Waterproof"],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "ACC001",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/mvZSHbq/buds.jpg",
+        "category": "Accessories",
+        "price": 120,
+        "description": "High-quality wireless earbuds with noise cancellation.",
+        "Specification": ["Noise Cancellation", "Bluetooth 5.0", "24h Battery"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "ACC002",
+        "product_title": "Charging Dock",
+        "product_image": "https://i.ibb.co.com/GJxZXvj/charging-dock.jpg",
+        "category": "Accessories",
+        "price": 60,
+        "description": "Multi-device charging dock.",
+        "Specification": ["USB-C", "Quick Charge", "Overcharge Protection"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "MAC001",
+        "product_title": "MacBook Air M2",
+        "product_image": " https://i.ibb.co.com/92FwmPB/laptop-1.jpg",
+        "category": "MacBook",
+        "price": 999,
+        "description": "MacBook Air with M2 chip for powerful performance.",
+        "Specification": ["M2 Chip", "8GB RAM", "256GB SSD", "13.6-inch display"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "MAC002",
+        "product_title": "MacBook Pro M2",
+        "product_image": "https://i.ibb.co.com/92FwmPB/laptop-1.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "High-performance MacBook Pro with M2 chip.",
+        "Specification": ["M2 Chip", "16GB RAM", "512GB SSD", "14-inch display"],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "IPH001",
+        "product_title": "iPhone 14",
+        "product_image": "https://i.ibb.co.com/fCXbZQs/phone-3.jpg",
+        "category": "iPhone",
+        "price": 899,
+        "description": "The latest iPhone with advanced camera and display.",
+        "Specification": ["128GB Storage", "6.1-inch OLED", "Dual Camera"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "IPH002",
+        "product_title": "iPhone SE",
+        "product_image": "https://i.ibb.co.com/phSfMwy/phone-2.jpg",
+        "category": "iPhone",
+        "price": 429,
+        "description": "Affordable iPhone with classic design.",
+        "Specification": ["64GB Storage", "4.7-inch LCD", "Single Camera"],
+        "availability": true,
+        "rating": 4.5
+    }
+
+]

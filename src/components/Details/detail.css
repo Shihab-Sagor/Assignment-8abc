@@ -1,0 +1,11 @@
+.places{
+    position: relative;
+    z-index: -1;
+    margin-bottom: 400px;
+}
+.images{
+    position: absolute;
+    left: 200px;
+    top: 220px;
+    z-index: -1;
+}

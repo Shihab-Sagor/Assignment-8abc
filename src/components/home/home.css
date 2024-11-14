@@ -1,0 +1,14 @@
+.place{
+    position: relative;
+    z-index: -1;
+}
+.image{
+    position: absolute;
+    left: 150px;
+    top: 420px;
+    z-index: -1;
+}
+.sidebar a.active{
+    color: white;
+   background-color:purple;
+}

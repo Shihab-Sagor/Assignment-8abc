@@ -1,0 +1,46 @@
+[
+    {
+        "product_id": "MAC001",
+        "product_title": "MacBook Air M2",
+        "product_image": "  https://i.ibb.co.com/P6BxHtS/laptop-2.jpg",
+        "category": "MacBook",
+        "price": 999,
+        "description": "MacBook Air with M2 chip for powerful performance.",
+        "Specification": ["M2 Chip", "8GB RAM", "256GB SSD", "13.6-inch display"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "MAC002",
+        "product_title": "MacBook Pro M2",
+        "product_image": "https://i.ibb.co.com/92FwmPB/laptop-1.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "High-performance MacBook Pro with M2 chip.",
+        "Specification": ["M2 Chip", "16GB RAM", "512GB SSD", "14-inch display"],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "LAP001",
+        "product_title": "UltraBook Pro",
+        "product_image": "https://i.ibb.co.com/vQVVWJt/laptop-4.jpg",
+        "category": "Laptop",
+        "price": 950,
+        "description": "A sleek, lightweight laptop with powerful performance.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "13.3-inch display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "LAP002",
+        "product_title": "Gaming Beast X",
+        "product_image": "https://i.ibb.co.com/92FwmPB/laptop-1.jpg",
+        "category": "Laptop",
+        "price": 1200,
+        "description": "High-performance laptop for gaming enthusiasts.",
+        "Specification": ["AMD Ryzen 7", "32GB RAM", "1TB SSD", "15.6-inch display"],
+        "availability": true,
+        "rating": 4.7
+    }
+]

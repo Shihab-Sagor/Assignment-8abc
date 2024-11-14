@@ -1,0 +1,46 @@
+[
+    {
+        "product_id": "IPH001",
+        "product_title": "iPhone 14",
+        "product_image": "https://i.ibb.co.com/fCXbZQs/phone-3.jpg",
+        "category": "iPhone",
+        "price": 899,
+        "description": "The latest iPhone with advanced camera and display.",
+        "Specification": ["128GB Storage", "6.1-inch OLED", "Dual Camera"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "IPH002",
+        "product_title": "iPhone SE",
+        "product_image": "https://i.ibb.co.com/phSfMwy/phone-2.jpg",
+        "category": "iPhone",
+        "price": 429,
+        "description": "Affordable iPhone with classic design.",
+        "Specification": ["64GB Storage", "4.7-inch LCD", "Single Camera"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "PHN001",
+        "product_title": "Phone Z Plus",
+        "product_image": "https://i.ibb.co.com/2v72QSB/phone-1.jpg",
+        "category": "Phone",
+        "price": 799,
+        "description": "Flagship smartphone with advanced features.",
+        "Specification": ["128GB Storage", "6.5-inch OLED", "Triple Camera"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "PHN002",
+        "product_title": "Smartphone Lite",
+        "product_image": "https://i.ibb.co.com/phSfMwy/phone-2.jpg",
+        "category": "Phone",
+        "price": 299,
+        "description": "Budget-friendly smartphone with essential features.",
+        "Specification": ["64GB Storage", "6.1-inch LCD", "Dual Camera"],
+        "availability": true,
+        "rating": 4.3
+    }
+]
